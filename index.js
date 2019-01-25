@@ -1,4 +1,4 @@
-const speed = 500 // in ms
+const speed = 500; // in ms
 
 let larray = document.querySelectorAll(".contents-wrapper>div");
 let i = 0;
