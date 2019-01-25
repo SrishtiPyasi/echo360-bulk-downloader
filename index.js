@@ -1,3 +1,6 @@
+console.log("https://github.com/bmiddha/echo360-bulk-downloader");
+console.log("Star and Fork on GitHub");
+alert ("Starting Download. Do not interact with this webpage. Check console for script progress.")
 const speed = 500; // in ms
 
 let larray = document.querySelectorAll(".contents-wrapper>div");
