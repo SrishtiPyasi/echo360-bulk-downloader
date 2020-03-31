@@ -1,0 +1,23 @@
+<!--This extension uses a button to change the background color.-->
+<!--Use the chrome.pageAction API to put icons in the main Google Chrome toolbar,
+     to the right of the address bar.
+    Like the background script, this file needs to be designated as a popup in the manifest under page_action.
+
+-->
+<!DOCTYPE html>
+  <html>
+    <head>
+      <style>
+        button {
+          height: 50px;
+          width: 250px;
+          outline: none;
+        }
+      </style>
+    </head>
+    <body>
+      <button id="changeColor">Click to start download</button>
+      <button id="stopDownload">Click to stop download</button>
+      <script src="popup.js"></script>
+    </body>
+  </html>
