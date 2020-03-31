@@ -7,7 +7,7 @@ Made a chrome extension using Javascipt.
 Used HTML/CSS to make two buttons to start and stop bulk download
 
 # Screenshot
-[ScreenShot](screenshot.png)
+[ScreenShot](extension.png)
 
 
 
